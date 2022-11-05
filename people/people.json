@@ -180,6 +180,58 @@
 "day": "Thursday",
 "time": "1340",
 "abstract": ""
+},
+{
+"name" : "Katharina Glomb",
+"last_name": "Glomb",
+"affiliation": "Berlin Institute of Health at Charité (BIH)",
+"title" : "TBA",
+"url" : "https://wp.unil.ch/connectomics/katharina-glomb/",
+"image_src": "assets/img/Katharina_Glomb.jpeg",
+"field": "Graphs",
+"date": "14.12.2022",
+"day": "Thursday",
+"time": "1340",
+"abstract": ""
+},
+{
+"name" : "Maria Giulia Preti",
+"last_name": "Preti",
+"affiliation": "Center for Biomedical Imaging, EPFL, Switzerland",
+"title" : "TBA",
+"url" : "https://people.epfl.ch/maria.preti/?lang=en",
+"image_src": "assets/img/maria_preti.jpeg",
+"field": "Signal Processing",
+"date": "14.12.2022",
+"day": "Thursday",
+"time": "1340",
+"abstract": ""
+},
+{
+"name" : "Nicolas Farrugia",
+"last_name": "Farrugia",
+"affiliation": " IMT Atlantique, France",
+"title" : "TBA",
+"url" : "https://nicofarr.github.io/",
+"image_src": "assets/img/nico_juin.jpeg",
+"field": "AI",
+"date": "14.12.2022",
+"day": "Thursday",
+"time": "1340",
+"abstract": ""
+},
+{
+"name" : "Fabrizio de Vico Fallani",
+"last_name": "de Vico Fallani",
+"affiliation": "Brain and Spine Institute (ICM) in Paris, France",
+"title" : "TBA",
+"url" : "https://nicofarr.github.io/",
+"image_src": "assets/img/nico_juin.jpeg",
+"field": "AI",
+"date": "14.12.2022",
+"day": "Thursday",
+"time": "1340",
+"abstract": ""
 }
 ]
     
