@@ -46,9 +46,9 @@
     "url" : "https://neuropsi.cnrs.fr/annuaire/alain-destexhe/",
     "image_src": "assets/img/alain_destehxe.jpeg",
     "field": "Neural Coding",
-    "date": "13.12.2022",
-    "day": "Monday",
-    "time": "1300",
+    "date": "15.12.2022",
+    "day": "Thursday",
+    "time": "1600",
      "abstract": ""
 },
 {
@@ -111,9 +111,9 @@
 "url" : "http://mbu.iisc.ac.in/~rngrp/",
 "image_src": "assets/img/Rishi.jpeg",
 "field": "Neural Coding",
-"date": "14.12.2022",
+"date": "15.12.2022",
 "day": "Thursday",
-"time": "1340",
+"time": "1445",
 "abstract": ""
 },
 {
@@ -124,9 +124,9 @@
 "url" : "https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/vijay-balasubramanian",
 "image_src": "assets/img/vijay_bala.jpeg",
 "field": "Neural Coding",
-"date": "14.12.2022",
+"date": "15.12.2022",
 "day": "Thursday",
-"time": "1340",
+"time": "1400",
 "abstract": ""
 },
 {
@@ -137,9 +137,9 @@
 "url" : "https://www.ntnu.edu/employees/yasser.roudi",
 "image_src": "assets/img/yasser_roudi.jpeg",
 "field": "Neural Coding",
-"date": "14.12.2022",
+"date": "15.12.2022",
 "day": "Thursday",
-"time": "1340",
+"time": "1645",
 "abstract": ""
 },
 {
@@ -221,18 +221,18 @@
 "abstract": ""
 },
 {
-    "name" : "Fabrizio de Vico Fallani",
-    "last_name": "de Vico Fallani",
-    "affiliation": "Brain and Spine Institute (ICM) in Paris, France",
-    "title" : "TBA",
-    "url" : "https://nicofarr.github.io/",
-    "image_src": "assets/img/fab3.jpeg",
-    "field": "AI",
-    "date": "14.12.2022",
-    "day": "Thursday",
-    "time": "1340",
-    "abstract": ""
-    }
+"name" : "Fabrizio de Vico Fallani",
+"last_name": "de Vico Fallani",
+"affiliation": "Brain and Spine Institute (ICM) in Paris, France",
+"title" : "TBA",
+"url" : "https://nicofarr.github.io/",
+"image_src": "assets/img/fab3.jpeg",
+"field": "AI",
+"date": "14.12.2022",
+"day": "Thursday",
+"time": "1340",
+"abstract": ""
+},
 {
 "name" : "Philippe Isope",
 "last_name": "Isope",
@@ -240,11 +240,24 @@
 "title" : "TBA",
 "url" : "https://inci-en.u-strasbg.fr/?page_id=432",
 "image_src": "assets/img/isope.jpeg",
-"field": "AI",
-"date": "14.12.2022",
+"field": "Neural Coding",
+"date": "15.12.2022",
 "day": "Thursday",
-"time": "1340",
+"time": "1145",
 "abstract": ""
-}
-        ]
+},
+{
+"name" : "Thomas Micconi",
+"last_name": "Micconi",
+"affiliation": "Uber AI Labs",
+"title" : "TBA",
+"url" : "https://scholar.harvard.edu/tmiconi",
+"image_src": "assets/img/thomas_miconi.jpeg",
+"field": "AI",
+"date": "15.12.2022",
+"day": "Thursday",
+"time": "1730",
+"abstract": ""
+} 
+]
     
