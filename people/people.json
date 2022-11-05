@@ -59,9 +59,9 @@
     "url" : "https://med.uottawa.ca/cellular-molecular/people/naud-richard",
     "image_src": "assets/img/richard_naud.jpeg",
     "field": "Neural Coding",
-    "date": "14.12.2022",
+    "date": "15.12.2022",
     "day": "Thursday",
-    "time": "1000",
+    "time": "0945",
      "abstract": ""
 },    
 {
@@ -72,9 +72,9 @@
     "url" : "https://www.uke.de/english/departments-institutes/institutes/department-of-excellence-for-neural-information-processing/team/index.html",
     "image_src": "assets/img/panzeri_stefano.jpeg",
     "field": "Neural Coding",
-    "date": "14.12.2022",
+    "date": "15.12.2022",
     "day": "Thursday",
-    "time": "1340",
+    "time": "1100",
      "abstract": ""
 },
 {
@@ -85,9 +85,9 @@
     "url" : "https://www.ncbs.res.in/faculty/bhalla",
     "image_src": "assets/img/upi_bhalla.jpeg",
     "field": "Neural Coding",
-    "date": "14.12.2022",
+    "date": "15.12.2022",
     "day": "Thursday",
-    "time": "1340",
+    "time": "0900",
      "abstract": ""
 },
 {
@@ -221,17 +221,30 @@
 "abstract": ""
 },
 {
-"name" : "Fabrizio de Vico Fallani",
-"last_name": "de Vico Fallani",
-"affiliation": "Brain and Spine Institute (ICM) in Paris, France",
+    "name" : "Fabrizio de Vico Fallani",
+    "last_name": "de Vico Fallani",
+    "affiliation": "Brain and Spine Institute (ICM) in Paris, France",
+    "title" : "TBA",
+    "url" : "https://nicofarr.github.io/",
+    "image_src": "assets/img/fab3.jpeg",
+    "field": "AI",
+    "date": "14.12.2022",
+    "day": "Thursday",
+    "time": "1340",
+    "abstract": ""
+    }
+{
+"name" : "Philippe Isope",
+"last_name": "Isope",
+"affiliation": "Institute of Cellular and Integrative Neuroscience, University of Strasbourg, France",
 "title" : "TBA",
-"url" : "https://nicofarr.github.io/",
-"image_src": "assets/img/fab3.jpeg",
+"url" : "https://inci-en.u-strasbg.fr/?page_id=432",
+"image_src": "assets/img/isope.jpeg",
 "field": "AI",
 "date": "14.12.2022",
 "day": "Thursday",
 "time": "1340",
 "abstract": ""
 }
-]
+        ]
     
