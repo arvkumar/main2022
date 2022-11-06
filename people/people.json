@@ -198,14 +198,14 @@
 "name" : "Maria Giulia Preti",
 "last_name": "Preti",
 "affiliation": "Center for Biomedical Imaging, EPFL, Switzerland",
-"title" : "TBA",
+"title" : "Graph signal processing for neurogimaging to identify unique structure-function coupling signatures ",
 "url" : "https://people.epfl.ch/maria.preti/?lang=en",
 "image_src": "assets/img/maria_preti.jpeg",
 "field": "Signal Processing",
 "date": "16.12.2022",
 "day": "Friday",
 "time": "1445",
-"abstract": ""
+"abstract": "The relation between functional activity and the underlying neural architecture in the brain is complex and remains largely unexplored. In this context, graph signal processing (GSP) represents a novel framework allowing to link functional activity signals, e.g., from functional magnetic resonance imaging (fMRI), and the structural connections underneath (assessed with diffusion MRI) in a non-trivial way. Functional activity patterns are represented as graph signals, defined on top of the structural connectome graph, and graph spectral filtering can be used to distinguish the components of the functional activity that are more or less smooth on the graph; i.e., coupled or decoupled from brain structure, respectively. Here, we investigate and compare structure-function coupling assessed at different temporal scales and with different modalities; i.e., resting-state fMRI and magnetoencephalography (MEG). In particular, we investigate the capability of structure-function coupling to identify individuals, representing a unique signature of their brains. We conclude that structure-function coupling performs very accurately for individual fingerprinting, with different brain patterns contributing at different time-scales."
 },
 {
 "name" : "Nicolas Farrugia",
