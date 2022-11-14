@@ -179,7 +179,7 @@
 "date": "16.12.2022",
 "day": "Friday",
 "time": "1400",
-"abstract": "Basic graph signal processing (GSP) techniques can be used to transform time series obtained through neuroimaging (be it M/EEG, fMRI, or others) into the graph spectral domain. The necessary basis functions - or "harmonic modes" in network neuroscience - are obtained from functional or structural connectivity matrices that encode network organization in the brain. This procedure involves a number of user-defined parameter choices, namely the type of Laplacian, the number of nearest neighbors in the graph, and the number of dimensions of the reduced space, all of which have an impact on the properties of the harmonic modes. If one applies GSP for the purposes of dimensionality reduction, it is relatively easy to choose these parameters, as one wants to achieve optimal compression. However, it is less clear what properties harmonic modes should have to meaningfully reflect the underlying brain connectivity. Quantitative criteria as to how to set these parameters - or indeed a systematic understanding of how parameter choices impact harmonic modes - are missing thus far, posing a serious limitation for interpreting harmonic modes in terms of their functional significance. In my talk, I will address recent ideas of how to tackle this limitation, looking at embedding and reconstruction performance as well as discussing graph properties that can be derived from the harmonic modes themselves."
+"abstract": ""
 },
 {
 "name" : "Maria Giulia Preti",
@@ -218,7 +218,7 @@
 "date": "16.12.2022",
 "day": "Friday",
 "time": "1645",
-"abstract": "The brain is a highly complex system. Disentangling the underlying network structure is crucial to understand the brain functioning under both healthy and pathological conditions. Yet, analyzing brain networks is challenging, in part because their structure represents only one possible realization of a generative stochastic process which is in general unknown. Having a formal way to cope with such intrinsic variability is therefore central for the characterization of brain network properties. Here, we focus on the recent advances of exponential random graph models (ERGMs), as a powerful means to identify the local connection mechanisms behind observed global network structure. Efforts are presented on the quest for basic organizational properties of human brain networks, as well as on the identification of predictive biomarkers of neurological diseases such as stroke. We conclude with a discussion on how emerging results and tools from statistical graph modeling could lead to a finer probabilistic description of complex systems in network neuroscience."
+"abstract": ""
 },
 {
 "name" : "Philippe Isope",
