@@ -55,14 +55,14 @@
     "name" : "Richard Naud",
     "last_name": "Naud",
     "affiliation": "University of Ottawa",
-    "title" : "TBA",
+    "title" : "New biological solutions to the credit assignment problem",
     "url" : "https://med.uottawa.ca/cellular-molecular/people/naud-richard",
     "image_src": "assets/img/richard_naud.jpeg",
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
     "time": "0945",
-     "abstract": ""
+     "abstract": "Synaptic plasticity is believed to be a key physiological mechanism for learning. It is well established that it depends on pre- and postsynaptic activity. How can such local learning give rise to meaningful decisions after being used by millions of neurons? Particularly, when the neurons receiving raw data are many synapses apart from the neurons making the decisions, how can the credit of a right/wrong decision be communicated to all the synapses that have taken a part in it? This is the credit assignment problem. AI has many algorithms to solve it, but these are impossible to implement by the brain as such. In this presentation, I am going to survey the recent theories and data that allowing us to understand how the brain coordinates plasticity by approximations of AI algorithms"
 },    
 {
     "name" : "Stefano Panzeri",
