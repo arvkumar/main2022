@@ -81,14 +81,14 @@
     "name" : "Upinder Bhalla",
     "last_name": "Bhalla",
     "affiliation": "National Center for Biological Sciences, Bangalore, India",
-    "title" : "TBA",
+    "title" : "Seeing what matters: how single neurons extract patterns amidst noise",
     "url" : "https://www.ncbs.res.in/faculty/bhalla",
     "image_src": "assets/img/upi_bhalla.jpeg",
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
     "time": "0900",
-     "abstract": ""
+     "abstract": "Neurons are remarkably fast, efficient and versatile computing units. To first order, a single neuron can be simulated by a rather substantial neural network model, or by a large system of partial differential equations. What computations can the real neuron do with these complex dynamics? I'll discuss two examples, one like the prediction of where a cricket ball will fly, and the other related to the ''what was that?'' moment when we hear a  repeated sound amidst background noise. One of the uniquely powerful capabilities of neurons is their ability to extract signals from complex patterns in space and time, against a background of uncorrelated neural activity. The trajectory prediction problem can be framed as sequential pattern recognition. I'll discuss how sequential pattern recognition is implemented in neurons, and how this operation is equivalent to the functioning of a convolutional neural network. I'll then take on the ''what was that?'' problem of recognizing unique repeated inputs. I'll discuss some preliminary data which suggests that excitatory-inhibitory (EI) balance is asymmetric with respect to sequences of patterns. This means that certain spatiotemporal input sequences can 'escape' EI balance and cause the neuron to become more active. Overall, both these computations, take advantage of the intricate biophysics and biochemistry of the neuron to perform real-time pattern recognition with extraordinary energy efficiency."
 },
 {
 "name" : "Vatsala Thirumalai",
