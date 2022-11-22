@@ -146,7 +146,7 @@
 "name" : "Roshan Cools",
 "last_name": "Cools",
 "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Centre for Cognitive Neuroimaging. The Netherlands",
-"title" : "TBA",
+"title" : "Chemistry of the adaptive mind. Lessons from dopamine?",
 "url" : "http://www.roshancools.com/",
 "image_src": "assets/img/roshan_cools.jpg",
 "field": "Neuromodulation",
@@ -198,14 +198,14 @@
 "name" : "Nicolas Farrugia",
 "last_name": "Farrugia",
 "affiliation": " IMT Atlantique, France",
-"title" : "TBA",
+"title" : "Interpreting brain activity through connectivity using graph signal processing",
 "url" : "https://nicofarr.github.io/",
 "image_src": "assets/img/nico_juin.jpeg",
 "field": "AI",
 "date": "16.12.2022",
 "day": "Friday",
 "time": "1600",
-"abstract": ""
+"abstract": "The application of graph theory to model the complex structure and function of the brain has shed new light on its organization, prompting the emergence of network neuroscience. Despite the tremendous progress that has been achieved in this field, still relatively few methods exploit the topology of brain networks to analyze brain activity. Recent attempts in this direction have leveraged on the one hand graph spectral analysis (to decompose brain connectivity into eigenmodes or gradients) and graph signal processing (to decompose brain activity “coupled to” an underlying network in graph Fourier modes). In this talk, we will describe two ongoing works that attempt at integrating knowledge from brain connectivity in order to decode and interpret brain activity. In the first contribution, we use functional connectivity graphs to define spectral convolution operators in a deep residual network trained on task decoding. We show how parameter pruning can be used to select the most important connectivity gradients for the task. In the second study, we analyze brain measured using high-density EEG during video watching, and perform an analysis using graph signal processing to estimate coupling and decoupling of source-localized electrophysiological activity on a functional connectivity graph. We discuss relationships between inter-subject correlation during video watching and structure-function decoupling at the individual level, and as a function of the underlying graph. The overarching goal of this line of work is to explore whether connectivity-informed analysis of brain activity can contribute to a better understanding of brain complexity as multimodal signals over networks."
 },
 {
 "name" : "Fabrizio de Vico Fallani",
