@@ -68,14 +68,14 @@
     "name" : "Stefano Panzeri",
     "last_name": "Panzeri",
     "affiliation": "UKE Hamburg, Germany",
-    "title" : "TBA",
+    "title" : "How activity correlations between neurons shape encoding and readout of sensory information",
     "url" : "https://www.uke.de/english/departments-institutes/institutes/department-of-excellence-for-neural-information-processing/team/index.html",
     "image_src": "assets/img/panzeri_stefano.jpeg",
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
     "time": "1100",
-     "abstract": ""
+     "abstract": "The collective activity of a population of neurons is critical for many brain functions. A fundamental question is how activity correlations between neurons affect how neural populations process information. We present a theory, built on the analyses of simultaneous recordings of activity of populations on neurons either in sensory or posterior parietal cortical areas, of how such correlations serve multiple functions performed by neural populations, including shaping the encoding of information in population codes, generating codes across multiple timescales, and facilitating information transmission to and readout by downstream brain areas to guide behavior. Here, we review this theory and we further present ideas on how to combine large-scale simultaneous recordings of neural populations, computational models, analyses of behavior, optogenetics, and anatomy to unravel how the structure of correlations might be optimized to serve multiple functions.     "
 },
 {
     "name" : "Upinder Bhalla",
