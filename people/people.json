@@ -120,14 +120,14 @@
 "name" : "Vijay Balasubramnium",
 "last_name": "Balasubramnium",
 "affiliation": "University of Pennsylvania, PA, USA",
-"title" : "TBA",
+"title" : "Occam's Razor in inference by humans and machines",
 "url" : "https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/vijay-balasubramanian",
 "image_src": "assets/img/vijay_bala.jpeg",
 "field": "Neural Coding",
 "date": "15.12.2022",
 "day": "Thursday",
 "time": "1400",
-"abstract": ""
+"abstract": "Occam's Razor is the principle that, all else being equal, simpler explanations for a set of observations should be preferred over complex ones.  This idea, derived from a famous dictum of the 13th century Scholastic philosopher William of Ockham, has a quantitative realization in modern mathematical theories of statistical model selection.   Experiments have also suggested that it plays a role in human perception and decision making.  I will describe the Bayesian theory of Occam's Razor, and discuss how it penalizes "complexity" understood in terms of the geometry of models seen as manifolds in the space of probability distributions.  Then I will present data from experiments with humans and artificial neural networks trained to perform decision tasks.  I will show that both humans and machines demonstrate an aversion to complex explanations, with simplicity biases quantitatively explained by the Bayesian theory.   These biases persist in humans, but not in machines, even in tasks where they are maladaptive and lower overall performance. Taken together, our results imply that principled notions of statistical model complexity have direct, quantitative relevance to human and machine decision-making. Our results also establish a new understanding of the computational foundations, and behavioral benefits, of our predilection for inferring simplicity in the latent properties of our complex world."
 },
 {
 "name" : "Yasser Roudi",
