@@ -42,14 +42,14 @@
     "name" : "Alain Destexhe",
     "last_name": "Destexhe",
     "affiliation": "CNRS, European Institute of Theoretical Neuroscience, Paris, France",
-    "title" : "TBA",
+    "title" : "Awake perception is associated with dedicated neuronal assemblies in cerebral cortex ",
     "url" : "https://neuropsi.cnrs.fr/annuaire/alain-destexhe/",
     "image_src": "assets/img/alain_destehxe.jpeg",
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
     "time": "1600",
-     "abstract": ""
+     "abstract": "Neural activity in the sensory cortex combines stimulus responses and ongoing activity, but it remains unclear whether these reflect the same underlying dynamics or separate processes. In the present study, we show in mice that, during wakefulness, the neuronal assemblies evoked by sounds in the auditory cortex and thalamus are specific to the stimulus and distinct from the assemblies observed in ongoing activity. By contrast, under three different anesthetics, evoked assemblies are indistinguishable from ongoing assemblies in the cortex. However, they remain distinct in the thalamus. A strong remapping of sensory responses accompanies this dynamic state change produced by anesthesia. Together, these results show that the awake cortex engages dedicated neuronal assemblies in response to sensory inputs, which we suggest is a network correlate of sensory perception (Filipchuk et al., Nature Neuroscience 25: 1327-1338, 2022)."
 },
 {
     "name" : "Richard Naud",
