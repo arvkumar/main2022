@@ -55,14 +55,14 @@
 "name" : "Vatsala Thirumalai",
 "last_name": "Thirumalai",
 "affiliation": "National Center for Biological Sciences, Bangalore, India",
-"title" : "TBA",
+"title" : "Expectation and Error Encoding in Cerebellar Purkinje Neurons",
 "url" : "https://www.ncbs.res.in/faculty/vatsala",
 "image_src": "assets/img/vatsala.jpeg",
 "field": "Neuromodulation",
 "date": "16.12.2022",
 "day": "Friday",
 "time": "0945",
- "abstract": ""
+ "abstract": "The cerebellum is known to be involved in minimizing error by participating in the acquisition and updating of internal models of the world. However, several key features of how this is accomplished is not yet clear. By using larval zebrafish, we could monitor the population activity of cerebellar Purkinje neurons while the larvae are engaged in a stereotyped optomotor behavior. We acclimatized the fish to predictable stimuli and then challenged them with a novel stimulus. Purkinje neuron activity remained modest during acclimitizing trials but reported an enhanced error signal during the novel stimulus. The error signal increased in amplitude with increased number of repetitions of the acclimitizing stimulus, reaching saturation at 16 repetitions. I will discuss these results in detail and propose that Purkinje neurons signal the need to update the internal model when there are mismatches between expectation and reality by way of their error signals. "
 },
 {
 "name" : "Rishikesh Narayanan",
