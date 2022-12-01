@@ -1,44 +1,5 @@
 [
 {
-    "name" : "Arvind Kumar",
-    "last_name": "Kumar",
-    "affiliation": "KTH Royal Institute of Technology, Stockholm",
-    "title" : "",
-    "url" : "https://www.kth.se/profile/arvindku",
-    "image_src": "assets/img/arvindku.jpeg",
-    "field": "Neuroscience",
-    "date": "",
-    "day": "",
-    "time": "",
-     "abstract": ""
-},
-{
-    "name" : "Srikanth Ramaswamy",
-    "last_name": "Ramaswamy",
-    "affiliation": "New Castle University, UK",
-    "title" : "",
-    "url" : "https://people.epfl.ch/srikanth.ramaswamy",
-    "image_src": "assets/img/Srikanth_Ramaswamy.jpeg",
-    "field": "Neuroscience",
-    "date": "",
-    "day": "",
-    "time": "",
-     "abstract": ""
-},
-{
-    "name" : "Saikat  Chatterjee",
-    "last_name": "Chatterjee",
-    "affiliation": "KTH Royal Institute of Technology, Stockholm",
-    "title" : "",
-    "url" : "https://www.kth.se/profile/sach",
-    "image_src": "assets/img/Saikat_Chatterjee.png",
-    "field": "AI",
-    "date": "",
-    "day": "",
-    "time": "",
-     "abstract": ""
-},
-{
     "name" : "Alain Destexhe",
     "last_name": "Destexhe",
     "affiliation": "CNRS, European Institute of Theoretical Neuroscience, Paris, France",
@@ -247,4 +208,3 @@
 "abstract": "A hallmark of intelligence is the ability to autonomously learn new flexible, cognitive behaviors - that is, behaviors where the appropriate action depends not just on immediate stimuli (as in simple reflexive stimulus-response associations), but on memorized contextual information. Such cognitive, memory-dependent behaviors are by definition meta-learning (``learning to learn'') tasks. Artificial agents can learn a given cognitive task with external, human-designed meta-learning algorithms. By contrast, animals are able to pick up such cognitive tasks automatically, from stimuli and rewards alone, through the operation of their own  internal machinery: evolution has endowed animals with the ability to automatically acquire novel cognitive tasks, including tasks never seen during evolution. Can we harness this process to generate artificial agents with such abilities? Here we evolve neural networks, endowed with plastic connections and neuromodulation, over a sizable set of simple meta-learning tasks based on a framework from computational neuroscience. The resulting evolved networks can automatically modify their own connectivity to acquire a novel simple cognitive task, never seen during evolution, from stimuli and rewards alone, through the spontaneous operation of their evolved neural organization and plasticity system. We suggest that attending to the multiplicity of loops involved in natural learning may provide useful insight into the emergence of intelligent behavior."
 } 
 ]
-    
