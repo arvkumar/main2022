@@ -9,7 +9,7 @@
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
-    "time": "1600",
+    "time": "0945",
      "abstract": "Neural activity in the sensory cortex combines stimulus responses and ongoing activity, but it remains unclear whether these reflect the same underlying dynamics or separate processes. In the present study, we show in mice that, during wakefulness, the neuronal assemblies evoked by sounds in the auditory cortex and thalamus are specific to the stimulus and distinct from the assemblies observed in ongoing activity. By contrast, under three different anesthetics, evoked assemblies are indistinguishable from ongoing assemblies in the cortex. However, they remain distinct in the thalamus. A strong remapping of sensory responses accompanies this dynamic state change produced by anesthesia. Together, these results show that the awake cortex engages dedicated neuronal assemblies in response to sensory inputs, which we suggest is a network correlate of sensory perception (Filipchuk et al., Nature Neuroscience 25: 1327-1338, 2022)."
 },
 {
@@ -22,7 +22,7 @@
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
-    "time": "0945",
+    "time": "1600",
      "abstract": "Synaptic plasticity is believed to be a key physiological mechanism for learning. It is well established that it depends on pre- and postsynaptic activity. How can such local learning give rise to meaningful decisions after being used by millions of neurons? Particularly, when the neurons receiving raw data are many synapses apart from the neurons making the decisions, how can the credit of a right/wrong decision be communicated to all the synapses that have taken a part in it? This is the credit assignment problem. AI has many algorithms to solve it, but these are impossible to implement by the brain as such. In this presentation, I am going to survey the recent theories and data that allowing us to understand how the brain coordinates plasticity by approximations of AI algorithms"
 },    
 {
@@ -48,7 +48,7 @@
     "field": "Neural Coding",
     "date": "15.12.2022",
     "day": "Thursday",
-    "time": "0900",
+    "time": "1100",
      "abstract": "Neurons are remarkably fast, efficient and versatile computing units. To first order, a single neuron can be simulated by a rather substantial neural network model, or by a large system of partial differential equations. What computations can the real neuron do with these complex dynamics? I'll discuss two examples, one like the prediction of where a cricket ball will fly, and the other related to the ''what was that?'' moment when we hear a  repeated sound amidst background noise. One of the uniquely powerful capabilities of neurons is their ability to extract signals from complex patterns in space and time, against a background of uncorrelated neural activity. The trajectory prediction problem can be framed as sequential pattern recognition. I'll discuss how sequential pattern recognition is implemented in neurons, and how this operation is equivalent to the functioning of a convolutional neural network. I'll then take on the ''what was that?'' problem of recognizing unique repeated inputs. I'll discuss some preliminary data which suggests that excitatory-inhibitory (EI) balance is asymmetric with respect to sequences of patterns. This means that certain spatiotemporal input sequences can 'escape' EI balance and cause the neuron to become more active. Overall, both these computations, take advantage of the intricate biophysics and biochemistry of the neuron to perform real-time pattern recognition with extraordinary energy efficiency."
 },
 {
@@ -74,7 +74,7 @@
 "field": "Neural Coding",
 "date": "15.12.2022",
 "day": "Thursday",
-"time": "1445",
+"time": "1145",
 "abstract": ""
 },
 {
@@ -100,7 +100,7 @@
 "field": "Neural Coding",
 "date": "15.12.2022",
 "day": "Thursday",
-"time": "1645",
+"time": "1445",
 "abstract": "Learning is a distinctive feature of intelligent behaviour. High-throughput experimental data and Big Data promise to open new windows on complex systems such as cells, the brain or our societies. Yet, the puzzling success of Artificial Intelligence and Machine Learning shows that we still have a poor conceptual understanding of learning. These applications push statistical inference into uncharted territories where data is highdimensional and scarce, and prior information on 'true' models is scant if not totally absent. Here we review recent progress on understanding learning, based on the notion of 'relevance'. The relevance, as we define it here, quantifies the amount of information that a dataset or the internal representation of a learning machine contains on the generative model of the data. This allows us to define maximally informative samples, on one hand, and optimal learning machines on the other. These are ideal limits of samples and of machines, that contain the maximal amount of information about the unknown generative process, at a given resolution (or level of compression). Both ideal limits exhibit critical features in the statistical sense: Maximally informative samples are characterised by a power-law frequency distribution (statistical criticality) and optimal learning machines by an anomalously large susceptibility. The trade-off between resolution (i.e. compression) and relevance distinguishes the regime of noisy representations from that of lossy compression. These are separated by a special point characterised by Zipf’s law statistics. This identifies samples obeying Zipf’s law as the most compressed loss-less representations that are optimal in the sense of maximal relevance. Criticality in optimal learning machines manifests in an exponential degeneracy of energy levels, that leads to unusual thermodynamic properties. This distinctive feature is consistent with the invariance of the classification under coarse graining of the output, which is a desirable property of learning machines. This theoretical framework is corroborated by empirical analysis showing (i) how the concept of relevance can be useful to identify relevant variables in high-dimensional inference and (ii) that widely used machine learning architectures approach reasonably well the ideal limit of optimal learning machines, within the limits of the data with which they are trained."
 },
 {
@@ -113,7 +113,7 @@
 "field": "Neuromodulation",
 "date": "16.12.2022",
 "day": "Friday",
-"time": "0900",
+"time": "1145",
 "abstract": "The human brain faces a variety of computational dilemmas, including the flexibility/stability, the speed/accuracy and the labor/leisure tradeoff. Given its role in reinforcement learning and motivation, striatal dopamine is particularly well suited to dynamically regulate these computational tradeoffs depending on constantly changing task demands. To illustrate this, I will discuss evidence from studies on learning, motivation and cognitive control in human volunteers, using chemical PET imaging, psychopharmacology, and/or fMRI. These studies also begin to elucidate the mechanisms underlying the huge variability in dopaminergic drug effects across different individuals and across different task contexts"
 },
 {
@@ -126,7 +126,7 @@
 "field": "Neuromodulation",
 "date": "16.12.2022",
 "day": "Friday",
-"time": "1145",
+"time": "1100",
 "abstract": ""
 },
 {
@@ -190,8 +190,8 @@
 "image_src": "assets/img/isope.jpeg",
 "field": "Neural Coding",
 "date": "15.12.2022",
-"day": "Thursday",
-"time": "1145",
+"day": "Friday",
+"time": "0900",
 "abstract": ""
 },
 {
@@ -204,7 +204,7 @@
 "field": "AI",
 "date": "15.12.2022",
 "day": "Thursday",
-"time": "1730",
+"time": "1645",
 "abstract": "A hallmark of intelligence is the ability to autonomously learn new flexible, cognitive behaviors - that is, behaviors where the appropriate action depends not just on immediate stimuli (as in simple reflexive stimulus-response associations), but on memorized contextual information. Such cognitive, memory-dependent behaviors are by definition meta-learning (``learning to learn'') tasks. Artificial agents can learn a given cognitive task with external, human-designed meta-learning algorithms. By contrast, animals are able to pick up such cognitive tasks automatically, from stimuli and rewards alone, through the operation of their own  internal machinery: evolution has endowed animals with the ability to automatically acquire novel cognitive tasks, including tasks never seen during evolution. Can we harness this process to generate artificial agents with such abilities? Here we evolve neural networks, endowed with plastic connections and neuromodulation, over a sizable set of simple meta-learning tasks based on a framework from computational neuroscience. The resulting evolved networks can automatically modify their own connectivity to acquire a novel simple cognitive task, never seen during evolution, from stimuli and rewards alone, through the spontaneous operation of their evolved neural organization and plasticity system. We suggest that attending to the multiplicity of loops involved in natural learning may provide useful insight into the emergence of intelligent behavior."
 } 
 ]
