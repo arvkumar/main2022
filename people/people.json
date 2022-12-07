@@ -68,14 +68,14 @@
 "name" : "Rishikesh Narayanan",
 "last_name": "Narayanan",
 "affiliation": "Indian Institute of Sciences, Bangalore, India",
-"title" : "TBA",
+"title" : "Efficient information coding and degeneracy in the nervous system",
 "url" : "http://mbu.iisc.ac.in/~rngrp/",
 "image_src": "assets/img/Rishi.jpeg",
 "field": "Neural Coding",
 "date": "15.12.2022",
 "day": "Thursday",
 "time": "1145",
-"abstract": ""
+"abstract": "Efficient information coding (EIC) is a universal biological framework rooted in the fundamental principle that system responses should match their natural stimulus statistics for maximizing environmental information. In this talk, the following arguments about EIC will be discussed: (1) EIC is ubiquitous: spans species, systems, and scales. This contrasts prevailing assumptions that EIC is limited to sensory systems neuroscience. Illustrative examples spanning all scales — molecular to behavioral — across species will be presented to emphasize the ubiquitous nature of EIC. (2) )Biological complexity and associated degeneracy are effective substrates to achieve EIC in conjunction with system stability. Complexity in a system is characterized by several functionally segregated subsystems that show a high degree of functional integration when they interact with each other. Degeneracy, the ability of structurally different components to yield the same functional outcome, provides an efficacious substrate for implementing stable EIC in biological systems."
 },
 {
 "name" : "Vijay Balasubramnium",
