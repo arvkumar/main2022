@@ -192,7 +192,7 @@
 "date": "15.12.2022",
 "day": "Friday",
 "time": "0900",
-"abstract": ""
+"abstract": "The cerebellum, which plays a major role in the control, timing and learning of skilled movements, is at the heart of motor coordination. To execute coordinated movements, the cerebellum processes multimodal contextual sensorimotor information conveyed by the mossy fiber inputs with internal models of the motor apparatus in order to predict sensory consequences of action. This prediction is necessary for delayed temporal associations between stimuli, sensory cancellation during voluntary movement for the detection of unexpected events, and fine tuning of motor and cognitive behaviors. A major goal is to understand how these temporal computations are performed in cerebellar circuits. I will first describe our work in rodents showing that cerebellar microcircuits encode internal models of locomotor adaptation. In a second part, I will introduce how short term plasticity control temporal processing in cerebellar modules."
 },
 {
 "name" : "Thomas Miconi",
