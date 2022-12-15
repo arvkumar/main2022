@@ -98,9 +98,9 @@
 "url" : "https://www.ntnu.edu/employees/yasser.roudi",
 "image_src": "assets/img/yasser_roudi.jpeg",
 "field": "Neural Coding",
-"date": "15.12.2022",
-"day": "Thursday",
-"time": "1445",
+"date": "16.12.2022",
+"day": "Friday",
+"time": "1400",
 "abstract": "Learning is a distinctive feature of intelligent behaviour. High-throughput experimental data and Big Data promise to open new windows on complex systems such as cells, the brain or our societies. Yet, the puzzling success of Artificial Intelligence and Machine Learning shows that we still have a poor conceptual understanding of learning. These applications push statistical inference into uncharted territories where data is highdimensional and scarce, and prior information on 'true' models is scant if not totally absent. Here we review recent progress on understanding learning, based on the notion of 'relevance'. The relevance, as we define it here, quantifies the amount of information that a dataset or the internal representation of a learning machine contains on the generative model of the data. This allows us to define maximally informative samples, on one hand, and optimal learning machines on the other. These are ideal limits of samples and of machines, that contain the maximal amount of information about the unknown generative process, at a given resolution (or level of compression). Both ideal limits exhibit critical features in the statistical sense: Maximally informative samples are characterised by a power-law frequency distribution (statistical criticality) and optimal learning machines by an anomalously large susceptibility. The trade-off between resolution (i.e. compression) and relevance distinguishes the regime of noisy representations from that of lossy compression. These are separated by a special point characterised by Zipf’s law statistics. This identifies samples obeying Zipf’s law as the most compressed loss-less representations that are optimal in the sense of maximal relevance. Criticality in optimal learning machines manifests in an exponential degeneracy of energy levels, that leads to unusual thermodynamic properties. This distinctive feature is consistent with the invariance of the classification under coarse graining of the output, which is a desirable property of learning machines. This theoretical framework is corroborated by empirical analysis showing (i) how the concept of relevance can be useful to identify relevant variables in high-dimensional inference and (ii) that widely used machine learning architectures approach reasonably well the ideal limit of optimal learning machines, within the limits of the data with which they are trained."
 },
 {
@@ -207,4 +207,17 @@
 "time": "1645",
 "abstract": "A hallmark of intelligence is the ability to autonomously learn new flexible, cognitive behaviors - that is, behaviors where the appropriate action depends not just on immediate stimuli (as in simple reflexive stimulus-response associations), but on memorized contextual information. Such cognitive, memory-dependent behaviors are by definition meta-learning (``learning to learn'') tasks. Artificial agents can learn a given cognitive task with external, human-designed meta-learning algorithms. By contrast, animals are able to pick up such cognitive tasks automatically, from stimuli and rewards alone, through the operation of their own  internal machinery: evolution has endowed animals with the ability to automatically acquire novel cognitive tasks, including tasks never seen during evolution. Can we harness this process to generate artificial agents with such abilities? Here we evolve neural networks, endowed with plastic connections and neuromodulation, over a sizable set of simple meta-learning tasks based on a framework from computational neuroscience. The resulting evolved networks can automatically modify their own connectivity to acquire a novel simple cognitive task, never seen during evolution, from stimuli and rewards alone, through the spontaneous operation of their evolved neural organization and plasticity system. We suggest that attending to the multiplicity of loops involved in natural learning may provide useful insight into the emergence of intelligent behavior."
 } 
+{
+    "name" : "Jie Mei",
+    "last_name": "Mei",
+    "affiliation": "IRCN Tokyo, Japan",
+    "title" : "TBA",
+    "url" : "https://www.researchgate.net/profile/Jie-Mei-8",
+    "image_src": "assets/img/jie_mei.jpeg",
+    "field": "AI",
+    "date": "15.12.2022",
+    "day": "Thursday",
+    "time": "1445",
+    "abstract": ""
+    } 
 ]
