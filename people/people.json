@@ -116,32 +116,32 @@
 "time": "1145",
 "abstract": "The human brain faces a variety of computational dilemmas, including the flexibility/stability, the speed/accuracy and the labor/leisure tradeoff. Given its role in reinforcement learning and motivation, striatal dopamine is particularly well suited to dynamically regulate these computational tradeoffs depending on constantly changing task demands. To illustrate this, I will discuss evidence from studies on learning, motivation and cognitive control in human volunteers, using chemical PET imaging, psychopharmacology, and/or fMRI. These studies also begin to elucidate the mechanisms underlying the huge variability in dopaminergic drug effects across different individuals and across different task contexts"
 },
-{
-"name" : "Dinos Meletis",
-"last_name": "Meletis",
-"affiliation": "Karolinska Institute, Sweden",
-"title" : "The organization and function of circuits shaping motivated behaviors",
-"url" : "https://ki.se/en/neuro/meletis-laboratory",
-"image_src": "assets/img/Dinos_Meletis.jpeg",
-"field": "Neuromodulation",
-"date": "16.12.2022",
-"day": "Friday",
-"time": "1100",
-"abstract": "The organization of brain circuits reflects a biological template for producing diverse and complex behaviors. To address the connection between organization and function, we have investigated the molecular and connectivity principles of circuits at the whole-brain scale to establish the anatomy and circuit organization based on unbiased definitions. We have used this knowledge to study the role of neuron types in motivated behaviors, focusing on the role of neuron types in the basal ganglia and the hypothalamic-habenula pathway. I will discuss progress in using multimodal classification of circuits and neurons to define how negative signals induce avoidance and stress states."
-},
-{
-"name" : "Katharina Glomb",
-"last_name": "Glomb",
-"affiliation": "Berlin Institute of Health at Charité (BIH)",
-"title" : "Towards quality control for harmonic modes",
-"url" : "https://wp.unil.ch/connectomics/katharina-glomb/",
-"image_src": "assets/img/Katharina_Glomb.jpeg",
-"field": "Graphs",
-"date": "16.12.2022",
-"day": "Friday",
-"time": "1400",
-"abstract": "Basic graph signal processing (GSP) techniques can be used to transform time series obtained through neuroimaging (be it M/EEG, fMRI, or others) into the graph spectral domain. The necessary basis functions - or 'harmonic modes' in network neuroscience - are obtained from functional or structural connectivity matrices that encode network organization in the brain. This procedure involves a number of user-defined parameter choices, namely the type of Laplacian, the number of nearest neighbors in the graph, and the number of dimensions of the reduced space, all of which have an impact on the properties of the harmonic modes. If one applies GSP for the purposes of dimensionality reduction, it is relatively easy to choose these parameters, as one wants to achieve optimal compression. However, it is less clear what properties harmonic modes should have to meaningfully reflect the underlying brain connectivity. Quantitative criteria as to how to set these parameters - or indeed a systematic understanding of how parameter choices impact harmonic modes - are missing thus far, posing a serious limitation for interpreting harmonic modes in terms of their functional significance. In my talk, I will address recent ideas of how to tackle this limitation, looking at embedding and reconstruction performance as well as discussing graph properties that can be derived from the harmonic modes themselves. "
-},
+// {
+// "name" : "Dinos Meletis",
+// "last_name": "Meletis",
+// "affiliation": "Karolinska Institute, Sweden",
+// "title" : "The organization and function of circuits shaping motivated behaviors",
+// "url" : "https://ki.se/en/neuro/meletis-laboratory",
+// "image_src": "assets/img/Dinos_Meletis.jpeg",
+// "field": "Neuromodulation",
+// "date": "16.12.2022",
+// "day": "Friday",
+// "time": "1100",
+// "abstract": "The organization of brain circuits reflects a biological template for producing diverse and complex behaviors. To address the connection between organization and function, we have investigated the molecular and connectivity principles of circuits at the whole-brain scale to establish the anatomy and circuit organization based on unbiased definitions. We have used this knowledge to study the role of neuron types in motivated behaviors, focusing on the role of neuron types in the basal ganglia and the hypothalamic-habenula pathway. I will discuss progress in using multimodal classification of circuits and neurons to define how negative signals induce avoidance and stress states."
+// },
+// {
+// "name" : "Katharina Glomb",
+// "last_name": "Glomb",
+// "affiliation": "Berlin Institute of Health at Charité (BIH)",
+// "title" : "Towards quality control for harmonic modes",
+// "url" : "https://wp.unil.ch/connectomics/katharina-glomb/",
+// "image_src": "assets/img/Katharina_Glomb.jpeg",
+// "field": "Graphs",
+// "date": "16.12.2022",
+// "day": "Friday",
+// "time": "1400",
+// "abstract": "Basic graph signal processing (GSP) techniques can be used to transform time series obtained through neuroimaging (be it M/EEG, fMRI, or others) into the graph spectral domain. The necessary basis functions - or 'harmonic modes' in network neuroscience - are obtained from functional or structural connectivity matrices that encode network organization in the brain. This procedure involves a number of user-defined parameter choices, namely the type of Laplacian, the number of nearest neighbors in the graph, and the number of dimensions of the reduced space, all of which have an impact on the properties of the harmonic modes. If one applies GSP for the purposes of dimensionality reduction, it is relatively easy to choose these parameters, as one wants to achieve optimal compression. However, it is less clear what properties harmonic modes should have to meaningfully reflect the underlying brain connectivity. Quantitative criteria as to how to set these parameters - or indeed a systematic understanding of how parameter choices impact harmonic modes - are missing thus far, posing a serious limitation for interpreting harmonic modes in terms of their functional significance. In my talk, I will address recent ideas of how to tackle this limitation, looking at embedding and reconstruction performance as well as discussing graph properties that can be derived from the harmonic modes themselves. "
+// },
 {
 "name" : "Maria Giulia Preti",
 "last_name": "Preti",
@@ -152,7 +152,7 @@
 "field": "Signal Processing",
 "date": "16.12.2022",
 "day": "Friday",
-"time": "1445",
+"time": "1530",
 "abstract": "The relation between functional activity and the underlying neural architecture in the brain is complex and remains largely unexplored. In this context, graph signal processing (GSP) represents a novel framework allowing to link functional activity signals, e.g., from functional magnetic resonance imaging (fMRI), and the structural connections underneath (assessed with diffusion MRI) in a non-trivial way. Functional activity patterns are represented as graph signals, defined on top of the structural connectome graph, and graph spectral filtering can be used to distinguish the components of the functional activity that are more or less smooth on the graph; i.e., coupled or decoupled from brain structure, respectively. Here, we investigate and compare structure-function coupling assessed at different temporal scales and with different modalities; i.e., resting-state fMRI and magnetoencephalography (MEG). In particular, we investigate the capability of structure-function coupling to identify individuals, representing a unique signature of their brains. We conclude that structure-function coupling performs very accurately for individual fingerprinting, with different brain patterns contributing at different time-scales."
 },
 {
@@ -165,7 +165,7 @@
 "field": "AI",
 "date": "16.12.2022",
 "day": "Friday",
-"time": "1600",
+"time": "1445",
 "abstract": "The application of graph theory to model the complex structure and function of the brain has shed new light on its organization, prompting the emergence of network neuroscience. Despite the tremendous progress that has been achieved in this field, still relatively few methods exploit the topology of brain networks to analyze brain activity. Recent attempts in this direction have leveraged on the one hand graph spectral analysis (to decompose brain connectivity into eigenmodes or gradients) and graph signal processing (to decompose brain activity “coupled to” an underlying network in graph Fourier modes). In this talk, we will describe two ongoing works that attempt at integrating knowledge from brain connectivity in order to decode and interpret brain activity. In the first contribution, we use functional connectivity graphs to define spectral convolution operators in a deep residual network trained on task decoding. We show how parameter pruning can be used to select the most important connectivity gradients for the task. In the second study, we analyze brain measured using high-density EEG during video watching, and perform an analysis using graph signal processing to estimate coupling and decoupling of source-localized electrophysiological activity on a functional connectivity graph. We discuss relationships between inter-subject correlation during video watching and structure-function decoupling at the individual level, and as a function of the underlying graph. The overarching goal of this line of work is to explore whether connectivity-informed analysis of brain activity can contribute to a better understanding of brain complexity as multimodal signals over networks."
 },
 {
