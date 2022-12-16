@@ -219,5 +219,18 @@
     "day": "Thursday",
     "time": "1445",
     "abstract": "In recent years, the biology underlying adaptive learning has been modeled, leading to behavioral benefits in a variety of tasks. Studies have investigated how the neuromodulatory system, a major driver of synaptic plasticity, plays a role in training deep neural networks (DNNs). In this study, we explored the effects of neuromodulation on learning and single unit activities in a spatial learning task. Inspired by a previously proposed multi-scale neuromodulatory framework, plastic components, dropout modulation and learning rate decay were added to a DNN model. To explore the interplay between neuromodulation andersingle-unit activity patterns, we also studied properties of units in the fully-connected layer. As a result, we observed (1) behavioral benefits including faster model learning and smaller error of ambulation, and (2) altered activities of grid cell-like units in the fully-connected layer of the DNN upon integration of neuromodulatory components. We concluded that neuromodulatory components can affect learning trajectories, outcomes, and single unit activities, in a component- and hyperparameter-dependent manner. As one of the first studies that examined the role of neuromodulation in learning tasks using a biologically-realistic DNN, this study will encourage research that incorporates biological details, such as neuronal morphology and concurrent chemical neuromodulation processes, to neuromodulation-inspired models."
-    } 
-]
+    }, 
+    {
+        "name" : "Emil Waernberg",
+        "last_name": "Waernberg",
+        "affiliation": "KTH and KI, Stockholm, Sweden",
+        "title" : "Reinforcement learning in basal ganglia",
+        "url" : "https://www.researchgate.net/profile/Jie-Mei-8",
+        "image_src": "assets/img/emil.jpeg",
+        "field": "Neuro",
+        "date": "16.12.2022",
+        "day": "Thursday",
+        "time": "1100",
+        "abstract": ""
+        } 
+    ]
