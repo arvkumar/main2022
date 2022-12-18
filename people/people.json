@@ -116,32 +116,6 @@
 "time": "1145",
 "abstract": "The human brain faces a variety of computational dilemmas, including the flexibility/stability, the speed/accuracy and the labor/leisure tradeoff. Given its role in reinforcement learning and motivation, striatal dopamine is particularly well suited to dynamically regulate these computational tradeoffs depending on constantly changing task demands. To illustrate this, I will discuss evidence from studies on learning, motivation and cognitive control in human volunteers, using chemical PET imaging, psychopharmacology, and/or fMRI. These studies also begin to elucidate the mechanisms underlying the huge variability in dopaminergic drug effects across different individuals and across different task contexts"
 },
-// {
-// "name" : "Dinos Meletis",
-// "last_name": "Meletis",
-// "affiliation": "Karolinska Institute, Sweden",
-// "title" : "The organization and function of circuits shaping motivated behaviors",
-// "url" : "https://ki.se/en/neuro/meletis-laboratory",
-// "image_src": "assets/img/Dinos_Meletis.jpeg",
-// "field": "Neuromodulation",
-// "date": "16.12.2022",
-// "day": "Friday",
-// "time": "1100",
-// "abstract": "The organization of brain circuits reflects a biological template for producing diverse and complex behaviors. To address the connection between organization and function, we have investigated the molecular and connectivity principles of circuits at the whole-brain scale to establish the anatomy and circuit organization based on unbiased definitions. We have used this knowledge to study the role of neuron types in motivated behaviors, focusing on the role of neuron types in the basal ganglia and the hypothalamic-habenula pathway. I will discuss progress in using multimodal classification of circuits and neurons to define how negative signals induce avoidance and stress states."
-// },
-// {
-// "name" : "Katharina Glomb",
-// "last_name": "Glomb",
-// "affiliation": "Berlin Institute of Health at Charité (BIH)",
-// "title" : "Towards quality control for harmonic modes",
-// "url" : "https://wp.unil.ch/connectomics/katharina-glomb/",
-// "image_src": "assets/img/Katharina_Glomb.jpeg",
-// "field": "Graphs",
-// "date": "16.12.2022",
-// "day": "Friday",
-// "time": "1400",
-// "abstract": "Basic graph signal processing (GSP) techniques can be used to transform time series obtained through neuroimaging (be it M/EEG, fMRI, or others) into the graph spectral domain. The necessary basis functions - or 'harmonic modes' in network neuroscience - are obtained from functional or structural connectivity matrices that encode network organization in the brain. This procedure involves a number of user-defined parameter choices, namely the type of Laplacian, the number of nearest neighbors in the graph, and the number of dimensions of the reduced space, all of which have an impact on the properties of the harmonic modes. If one applies GSP for the purposes of dimensionality reduction, it is relatively easy to choose these parameters, as one wants to achieve optimal compression. However, it is less clear what properties harmonic modes should have to meaningfully reflect the underlying brain connectivity. Quantitative criteria as to how to set these parameters - or indeed a systematic understanding of how parameter choices impact harmonic modes - are missing thus far, posing a serious limitation for interpreting harmonic modes in terms of their functional significance. In my talk, I will address recent ideas of how to tackle this limitation, looking at embedding and reconstruction performance as well as discussing graph properties that can be derived from the harmonic modes themselves. "
-// },
 {
 "name" : "Maria Giulia Preti",
 "last_name": "Preti",
@@ -208,29 +182,29 @@
 "abstract": "A hallmark of intelligence is the ability to autonomously learn new flexible, cognitive behaviors - that is, behaviors where the appropriate action depends not just on immediate stimuli (as in simple reflexive stimulus-response associations), but on memorized contextual information. Such cognitive, memory-dependent behaviors are by definition meta-learning (``learning to learn'') tasks. Artificial agents can learn a given cognitive task with external, human-designed meta-learning algorithms. By contrast, animals are able to pick up such cognitive tasks automatically, from stimuli and rewards alone, through the operation of their own  internal machinery: evolution has endowed animals with the ability to automatically acquire novel cognitive tasks, including tasks never seen during evolution. Can we harness this process to generate artificial agents with such abilities? Here we evolve neural networks, endowed with plastic connections and neuromodulation, over a sizable set of simple meta-learning tasks based on a framework from computational neuroscience. The resulting evolved networks can automatically modify their own connectivity to acquire a novel simple cognitive task, never seen during evolution, from stimuli and rewards alone, through the spontaneous operation of their evolved neural organization and plasticity system. We suggest that attending to the multiplicity of loops involved in natural learning may provide useful insight into the emergence of intelligent behavior."
 },
 {
-    "name" : "Jie Mei",
-    "last_name": "Mei",
-    "affiliation": "IRCN Tokyo, Japan",
-    "title" : "Neuromodulation-inspired mechanisms improve the performance of deep neural networks in a spatial learning task",
-    "url" : "https://www.researchgate.net/profile/Jie-Mei-8",
-    "image_src": "assets/img/jie_mei.jpeg",
-    "field": "AI",
-    "date": "15.12.2022",
-    "day": "Thursday",
-    "time": "1445",
-    "abstract": "In recent years, the biology underlying adaptive learning has been modeled, leading to behavioral benefits in a variety of tasks. Studies have investigated how the neuromodulatory system, a major driver of synaptic plasticity, plays a role in training deep neural networks (DNNs). In this study, we explored the effects of neuromodulation on learning and single unit activities in a spatial learning task. Inspired by a previously proposed multi-scale neuromodulatory framework, plastic components, dropout modulation and learning rate decay were added to a DNN model. To explore the interplay between neuromodulation andersingle-unit activity patterns, we also studied properties of units in the fully-connected layer. As a result, we observed (1) behavioral benefits including faster model learning and smaller error of ambulation, and (2) altered activities of grid cell-like units in the fully-connected layer of the DNN upon integration of neuromodulatory components. We concluded that neuromodulatory components can affect learning trajectories, outcomes, and single unit activities, in a component- and hyperparameter-dependent manner. As one of the first studies that examined the role of neuromodulation in learning tasks using a biologically-realistic DNN, this study will encourage research that incorporates biological details, such as neuronal morphology and concurrent chemical neuromodulation processes, to neuromodulation-inspired models."
-    }, 
-    {
-        "name" : "Emil Waernberg",
-        "last_name": "Waernberg",
-        "affiliation": "KTH and KI, Stockholm, Sweden",
-        "title" : "Reinforcement learning in basal ganglia",
-        "url" : "",
-        "image_src": "assets/img/emil.jpg",
-        "field": "Neuro",
-        "date": "16.12.2022",
-        "day": "Thursday",
-        "time": "1100",
-        "abstract": ""
-        } 
+"name" : "Jie Mei",
+"last_name": "Mei",
+"affiliation": "IRCN Tokyo, Japan",
+"title" : "Neuromodulation-inspired mechanisms improve the performance of deep neural networks in a spatial learning task",
+"url" : "https://www.researchgate.net/profile/Jie-Mei-8",
+"image_src": "assets/img/jie_mei.jpeg",
+"field": "AI",
+"date": "15.12.2022",
+"day": "Thursday",
+"time": "1445",
+"abstract": "In recent years, the biology underlying adaptive learning has been modeled, leading to behavioral benefits in a variety of tasks. Studies have investigated how the neuromodulatory system, a major driver of synaptic plasticity, plays a role in training deep neural networks (DNNs). In this study, we explored the effects of neuromodulation on learning and single unit activities in a spatial learning task. Inspired by a previously proposed multi-scale neuromodulatory framework, plastic components, dropout modulation and learning rate decay were added to a DNN model. To explore the interplay between neuromodulation andersingle-unit activity patterns, we also studied properties of units in the fully-connected layer. As a result, we observed (1) behavioral benefits including faster model learning and smaller error of ambulation, and (2) altered activities of grid cell-like units in the fully-connected layer of the DNN upon integration of neuromodulatory components. We concluded that neuromodulatory components can affect learning trajectories, outcomes, and single unit activities, in a component- and hyperparameter-dependent manner. As one of the first studies that examined the role of neuromodulation in learning tasks using a biologically-realistic DNN, this study will encourage research that incorporates biological details, such as neuronal morphology and concurrent chemical neuromodulation processes, to neuromodulation-inspired models."
+}, 
+{
+"name" : "Emil Waernberg",
+"last_name": "Waernberg",
+"affiliation": "KTH and KI, Stockholm, Sweden",
+"title" : "Reinforcement learning in basal ganglia",
+"url" : "",
+"image_src": "assets/img/emil.jpg",
+"field": "Neuro",
+"date": "16.12.2022",
+"day": "Thursday",
+"time": "1100",
+"abstract": ""
+} 
     ]
